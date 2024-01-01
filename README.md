@@ -1,10 +1,12 @@
 # Datasets
 
-The dataset is based on Agricultural Faculty of Bingol and Inonu Universities in Turkey. This dataset consists of a total of 4,447 images in 15 classes. 
+This is a dataset upload that was collected and prepared at Agricultural Faculty of Bingol and Inonu Universities in Turkey. This dataset consists of a total of 4,447 images in 15 classes. 
 The images in the dataset were obtained from experimental feld studies of the Faculty of Agriculture at Inonu and Bingol Universities. 
-The three-channel (RGB) color images were obtained using a Nikon 7200d camera, with an image resolution of 4000 × 6000 pixels.
+The three-channel (RGB) color images were obtained using a Nikon 7200d camera, with an image resolution of 4000 × 6000 pixels. 
+
+The Orginal drive link has does not open :)
  
-[Ref: Turkey-PlantDataset dowloand link: https://drive.google.com/file/d/1MFQWR-57vbQzscgyBMq4EOHrNO5LRZqB/view?usp=sharing].
+[Ref: Turkey-PlantDataset dowloand link: https://drive.google.com/file/d/1MFQWR-57vbQzscgyBMq4EOHrNO5LRZqA/view?usp=sharing].
 
 
 *********************************************************************************************************************************************
